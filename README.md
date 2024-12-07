@@ -7,24 +7,32 @@ The ECommerce Sales Analysis Dashboard is an Excel-based solution designed to pr
 **Features**
 
 1.	Custom Charts:
-o	Dynamic bar and line charts for category-wise sales and profit trends.
-o	Pie charts to show category-wise sales distribution.
+   
+    o	Dynamic bar and line charts for category-wise sales and profit trends.
 
-2.	Maps Formatting:
-o	Interactive custom maps to visualize sales by state/region.
-o	Color-coded regions based on profit margins.
+    o	Pie charts to show category-wise sales distribution.
 
-3.	Year-over-Year (YoY) Calculation:
-o	Display percentage growth in sales and profit compared to previous years.
+3.	Maps Formatting:
+   
+    o	Interactive custom maps to visualize sales by state/region.
 
-4.	Calculated Fields:
-o	Advanced metrics like average sales price, total profit, and profit margin.
+    o	Color-coded regions based on profit margins.
 
-6.	Dynamic Layout and Filters:
-o	Interactive slicers and filters to view data by category, region, or time period.
+4.	Year-over-Year (YoY) Calculation:
+   
+    o	Display percentage growth in sales and profit compared to previous years.
 
-7.	KPIs at a Glance:
-o	Total sales, total profit, number of transactions, and average order value.
+6.	Calculated Fields:
+   
+    o	Advanced metrics like average sales price, total profit, and profit margin.
+
+8.	Dynamic Layout and Filters:
+   
+    o	Interactive slicers and filters to view data by category, region, or time period.
+
+10.	KPIs at a Glance:
+    
+    o	Total sales, total profit, number of transactions, and average order value.
 
 **Instructions to View the Dashboard**
 
