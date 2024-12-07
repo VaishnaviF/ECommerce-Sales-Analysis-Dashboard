@@ -1,4 +1,4 @@
-<center>**ECommerce Sales Analysis Dashboard**</center>
+**ECommerce Sales Analysis Dashboard**
 
 **Project Overview**
 
