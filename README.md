@@ -47,3 +47,8 @@ o	Formulas for calculated fields and metrics.
 
 •	**Data Source**: Sample sales data for ECommerce operations.
 
+**Dashboard Overview**
+
+![image](https://github.com/user-attachments/assets/6ea754f6-5e7d-4c4a-bc0e-e2c86fbbb4c4)
+
+
