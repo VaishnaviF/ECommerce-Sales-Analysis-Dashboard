@@ -1,10 +1,11 @@
-#ECommerce Sales Analysis Dashboard
+<center>**ECommerce Sales Analysis Dashboard**</center>
 
-#Project Overview
+**Project Overview**
 
 The ECommerce Sales Analysis Dashboard is an Excel-based solution designed to provide detailed insights into sales and profitability for an online store. It visualizes key performance indicators (KPIs), tracks trends like Year-over-Year (YoY) sales growth, and highlights sales distribution across categories and regions. The dashboard is interactive and user-friendly, enabling efficient decision-making for stakeholders.
 
-#Features
+**Features**
+
 1.	Custom Charts:
 o	Dynamic bar and line charts for category-wise sales and profit trends.
 o	Pie charts to show category-wise sales distribution.
@@ -25,19 +26,24 @@ o	Interactive slicers and filters to view data by category, region, or time peri
 7.	KPIs at a Glance:
 o	Total sales, total profit, number of transactions, and average order value.
 
-#Instructions to View the Dashboard
+**Instructions to View the Dashboard**
+
 1.	Open the Dashboard File: Download and open the ECommerce_Sales_Analysis.xlsx file using Microsoft Excel 2016 or later.
 2.	Enable Macros (if prompted): Some features may require macros to be enabled.
 3.	Navigate with Filters: Use slicers and dropdowns to filter data by category, region, or time.
 4.	Interactive Maps: Hover over the maps to view detailed sales metrics.
    
-#Technologies Used
-•	Microsoft Excel:
+**Technologies Used**
+
+o	Microsoft Excel:
+
 o	Pivot Tables and Pivot Charts.
+
 o	Custom formatting and data visualization.
+
 o	Formulas for calculated fields and metrics.
 
-•	Power Query (optional): For preprocessing data.
+•	**Power Query (optional)**: For preprocessing data.
 
-•	Data Source: Sample sales data for ECommerce operations.
+•	**Data Source**: Sample sales data for ECommerce operations.
 
